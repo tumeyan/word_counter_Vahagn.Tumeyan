@@ -1,0 +1,28 @@
+body{
+    background-color: gray
+}
+
+#container{
+
+    margin: 250px auto;
+    text-align: center;
+}
+
+
+#texts{
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#text{
+    font-size: 40px;
+    resize: none;
+}
+
+#button{
+ 
+    margin: 0 auto;
+    font-size: 30px;
+    color: #ffffff;
+}
